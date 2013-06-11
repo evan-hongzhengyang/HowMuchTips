@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370723452000 408 56de1f65431e9ff34685de6263a3616415dd6217 /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/R$layout.class
+1370636602000 349 369cd23b9e6a8ba53fe56b0965027f358ca298f9 /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/R$attr.class
+1370723452000 638 d7f3f4debd7588877c8d442d800d4bda04b8112b /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/R$string.class
+1370636602000 416 1dd487152c3a60a083b26223908dec81dd7c63ed /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/R$drawable.class
+1370723452000 397 5d5765ade5bbd218ce32586b635173ae77c380bb /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/R$menu.class
+1370723452000 3354 fa76deffa4b9758163afa249d4c17932aadf8c44 /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/TipsActivity.class
+1370636602000 470 4dd08fee3c7f1c16126c56e7788c4354b4e9ba82 /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/R$dimen.class
+1370636547000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/libs/android-support-v4.jar
+1370723452000 440 5cefb0837b6fdbc90efc4b7368fcca04db82ee28 /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/R$style.class
+1370636602000 351 4ea0d69efacb0780903abf322d4cddc376353f56 /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/BuildConfig.class
+1370647671000 2284 e2069812989fa17f22e6eda97cc9e8d0a333cef2 /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/TipAmountCalculator.class
+1370723452000 707 51c061a5d256a01aa085519471c75f2b5694fa99 /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/R.class
+1370723452000 894 b681b9a4a5d514f535e33326cf7e9dd4bb0a0f91 /home/hongzhengyang/opt/android/HowMuchTipsProject/HowMuchTips/build/classes/release/net/hyang/howmuchtips/R$id.class
